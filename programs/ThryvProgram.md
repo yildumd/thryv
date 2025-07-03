@@ -164,3 +164,57 @@ You’ve reset your habits, strengthened your mindset, and created momentum.
 
 👉 Ready to keep going?  
 Jump into the **8-Week Total Upgrade** or repeat this sprint with improved targets.
+---
+
+## 🔥 8-WEEK TOTAL UPGRADE (Continued)
+
+### WEEK 2: MORNING MASTERY
+
+**Theme:** Win the morning, win the day.
+
+**Objectives:**
+- Lock in a consistent, productive morning routine
+- Reduce "morning fog" and increase clarity
+- Start days with direction
+
+**Key Activities:**
+- ⏰ Wake up at the same time every day
+- 💦 Morning hydration + stretch
+- 🧠 Set 1 big goal per day before 9 AM
+- 📵 No social media until after your first 1 hour of work
+- ✍️ Write in the journal for 5 minutes before breakfast
+
+**Mini Challenge:**
+> "Power Hour": First hour of every morning = No distractions + goal setting.
+
+**Journal Prompt (Daily):**
+> How did I start today? What could make it smoother?
+
+---
+
+### WEEK 3: ENERGY & FITNESS RESET
+
+**Theme:** Move your body, fuel your mind.
+
+**Objectives:**
+- Build movement into your lifestyle
+- Clean up energy-draining foods
+- Sleep smarter
+
+**Key Activities:**
+- 🚶‍♂️ 30 mins movement daily
+- 🍽️ 3 clean meals: No junk, fried, or heavy sugar
+- 💤 7+ hrs of sleep (track sleep quality)
+- 🌞 10 mins of sun daily
+- ❌ Cut caffeine after 2 PM
+
+**Mini Challenge:**
+> “3 Days Raw” — Try 3 straight days of only fruits, veggies, water.
+
+**Journal Prompt (Daily):**
+> How did I feel in my body today? What’s one change that helped?
+
+---
+
+Let me know when to continue with **Week 4–8** and I’ll complete the rest 🔥  
+Also confirm if the 4-week UI is now showing properly.
