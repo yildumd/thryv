@@ -13,7 +13,7 @@ import EightWeekProgram from './pages/Programs/EightWeekProgram';
 import Fitness from './pages/Modules/Fitness';
 import Finance from './pages/Modules/Finance';
 import Nutrition from "@/components/Nutrition/Nutrition";
-import Mindset from './components/Mindset/Mindset';
+import Mindset from "@/components/Mindset/Mindset";
 
 const AppContent = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
