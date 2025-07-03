@@ -12,7 +12,7 @@ import EightWeekProgram from './pages/Programs/EightWeekProgram';
 // Module Components
 import Fitness from './pages/Modules/Fitness';
 import Finance from './pages/Modules/Finance';
-import Nutrition from './components/Nutrition/Nutrition';
+import Nutrition from "@/components/Nutrition/Nutrition";
 import Mindset from './components/Mindset/Mindset';
 
 const AppContent = () => {
